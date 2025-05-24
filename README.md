@@ -129,7 +129,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-**EduGap** empowers data-driven decisions to bridge the digital divide in Indian education.## 🎬 Box Office Brains
-
-![Dashboard Screenshot](dashboard1.png)
-![Dashboard Screenshot](dashboard2.png)
+**EduGap** empowers data-driven decisions to bridge the digital divide in Indian education.
