@@ -1,0 +1,113 @@
+State,Region,Gender,InternetAccessPercent,DeviceAccessPercent,DropoutRate,Year
+Andhra Pradesh,Urban,Male,37.5,32.5,10.4,2022
+Andhra Pradesh,Urban,Female,59.2,46.2,7.1,2022
+Andhra Pradesh,Rural,Male,75.3,70.3,4.7,2022
+Andhra Pradesh,Rural,Female,62.7,49.7,6.6,2022
+Arunachal Pradesh,Urban,Male,52.2,47.2,8.2,2022
+Arunachal Pradesh,Urban,Female,80.2,67.2,4.0,2022
+Arunachal Pradesh,Rural,Male,29.1,24.1,11.6,2022
+Arunachal Pradesh,Rural,Female,33.3,20.3,11.0,2022
+Assam,Urban,Male,58.5,53.5,7.2,2022
+Assam,Urban,Female,26.3,13.3,12.1,2022
+Assam,Rural,Male,51.5,46.5,8.3,2022
+Assam,Rural,Female,72.5,59.5,5.1,2022
+Bihar,Urban,Male,83.0,78.0,3.6,2022
+Bihar,Urban,Female,52.9,39.9,8.1,2022
+Bihar,Rural,Male,53.6,48.6,8.0,2022
+Bihar,Rural,Female,24.2,11.2,12.4,2022
+Chhattisgarh,Urban,Male,52.2,47.2,8.2,2022
+Chhattisgarh,Urban,Female,72.5,59.5,5.1,2022
+Chhattisgarh,Rural,Male,78.1,73.1,4.3,2022
+Chhattisgarh,Rural,Female,64.1,51.1,6.4,2022
+Goa,Urban,Male,52.9,47.9,8.1,2022
+Goa,Urban,Female,63.4,50.4,6.5,2022
+Goa,Rural,Male,69.7,64.7,5.5,2022
+Goa,Rural,Female,38.9,25.9,10.2,2022
+Gujarat,Urban,Male,71.1,66.1,5.3,2022
+Gujarat,Urban,Female,21.4,8.4,12.8,2022
+Gujarat,Rural,Male,80.9,75.9,3.9,2022
+Gujarat,Rural,Female,29.8,16.8,11.5,2022
+Haryana,Urban,Male,37.5,32.5,10.4,2022
+Haryana,Urban,Female,80.2,67.2,4.0,2022
+Haryana,Rural,Male,45.2,40.2,9.2,2022
+Haryana,Rural,Female,46.6,33.6,9.0,2022
+Himachal Pradesh,Urban,Male,44.5,39.5,9.3,2022
+Himachal Pradesh,Urban,Female,49.4,36.4,8.6,2022
+Himachal Pradesh,Rural,Male,71.8,66.8,5.2,2022
+Himachal Pradesh,Rural,Female,22.1,9.1,12.7,2022
+Jharkhand,Urban,Male,50.1,45.1,8.5,2022
+Jharkhand,Urban,Female,34.7,21.7,10.8,2022
+Jharkhand,Rural,Male,52.9,47.9,8.1,2022
+Jharkhand,Rural,Female,72.5,59.5,5.1,2022
+Karnataka,Urban,Male,71.1,66.1,5.3,2022
+Karnataka,Urban,Female,67.6,54.6,5.9,2022
+Karnataka,Rural,Male,24.2,19.2,12.4,2022
+Karnataka,Rural,Female,82.3,69.3,3.7,2022
+Kerala,Urban,Male,85.8,80.8,3.1,2022
+Kerala,Urban,Female,52.9,39.9,8.1,2022
+Kerala,Rural,Male,54.3,49.3,7.9,2022
+Kerala,Rural,Female,81.6,68.6,3.8,2022
+Madhya Pradesh,Urban,Male,56.4,51.4,7.5,2022
+Madhya Pradesh,Urban,Female,73.9,60.9,4.9,2022
+Madhya Pradesh,Rural,Male,54.3,49.3,7.9,2022
+Madhya Pradesh,Rural,Female,50.1,37.1,8.5,2022
+Maharashtra,Urban,Male,69.7,64.7,5.5,2022
+Maharashtra,Urban,Female,89.3,76.3,2.6,2022
+Maharashtra,Rural,Male,48.7,43.7,8.7,2022
+Maharashtra,Rural,Female,69.7,56.7,5.5,2022
+Manipur,Urban,Male,46.6,41.6,9.0,2022
+Manipur,Urban,Female,70.4,57.4,5.4,2022
+Manipur,Rural,Male,73.2,68.2,5.0,2022
+Manipur,Rural,Female,62.7,49.7,6.6,2022
+Meghalaya,Urban,Male,45.2,40.2,9.2,2022
+Meghalaya,Urban,Female,59.9,46.9,7.0,2022
+Meghalaya,Rural,Male,70.4,65.4,5.4,2022
+Meghalaya,Rural,Female,79.5,66.5,4.1,2022
+Mizoram,Urban,Male,45.2,40.2,9.2,2022
+Mizoram,Urban,Female,62.0,49.0,6.7,2022
+Mizoram,Rural,Male,45.2,40.2,9.2,2022
+Mizoram,Rural,Female,22.1,9.1,12.7,2022
+Nagaland,Urban,Male,80.9,75.9,3.9,2022
+Nagaland,Urban,Female,78.1,65.1,4.3,2022
+Nagaland,Rural,Male,23.5,18.5,12.5,2022
+Nagaland,Rural,Female,50.8,37.8,8.4,2022
+Odisha,Urban,Male,69.7,64.7,5.5,2022
+Odisha,Urban,Female,86.5,73.5,3.0,2022
+Odisha,Rural,Male,27.0,22.0,11.9,2022
+Odisha,Rural,Female,66.9,53.9,6.0,2022
+Punjab,Urban,Male,29.1,24.1,11.6,2022
+Punjab,Urban,Female,52.9,39.9,8.1,2022
+Punjab,Rural,Male,71.8,66.8,5.2,2022
+Punjab,Rural,Female,49.4,36.4,8.6,2022
+Rajasthan,Urban,Male,50.8,45.8,8.4,2022
+Rajasthan,Urban,Female,54.3,41.3,7.9,2022
+Rajasthan,Rural,Male,83.0,78.0,3.6,2022
+Rajasthan,Rural,Female,66.2,53.2,6.1,2022
+Sikkim,Urban,Male,41.7,36.7,9.7,2022
+Sikkim,Urban,Female,77.4,64.4,4.4,2022
+Sikkim,Rural,Male,48.0,43.0,8.8,2022
+Sikkim,Rural,Female,29.8,16.8,11.5,2022
+Tamil Nadu,Urban,Male,29.8,24.8,11.5,2022
+Tamil Nadu,Urban,Female,58.5,45.5,7.2,2022
+Tamil Nadu,Rural,Male,47.3,42.3,8.9,2022
+Tamil Nadu,Rural,Female,83.0,70.0,3.6,2022
+Telangana,Urban,Male,85.8,80.8,3.1,2022
+Telangana,Urban,Female,57.1,44.1,7.4,2022
+Telangana,Rural,Male,76.0,71.0,4.6,2022
+Telangana,Rural,Female,87.9,74.9,2.8,2022
+Tripura,Urban,Male,38.9,33.9,10.2,2022
+Tripura,Urban,Female,31.2,18.2,11.3,2022
+Tripura,Rural,Male,20.0,15.0,13.0,2022
+Tripura,Rural,Female,20.0,7.0,13.0,2022
+Uttar Pradesh,Urban,Male,76.7,71.7,4.5,2022
+Uttar Pradesh,Urban,Female,28.4,15.4,11.7,2022
+Uttar Pradesh,Rural,Male,42.4,37.4,9.6,2022
+Uttar Pradesh,Rural,Female,29.8,16.8,11.5,2022
+Uttarakhand,Urban,Male,32.6,27.6,11.1,2022
+Uttarakhand,Urban,Female,50.1,37.1,8.5,2022
+Uttarakhand,Rural,Male,45.9,40.9,9.1,2022
+Uttarakhand,Rural,Female,36.1,23.1,10.6,2022
+West Bengal,Urban,Male,81.6,76.6,3.8,2022
+West Bengal,Urban,Female,43.1,30.1,9.5,2022
+West Bengal,Rural,Male,62.0,57.0,6.7,2022
+West Bengal,Rural,Female,75.3,62.3,4.7,2022
